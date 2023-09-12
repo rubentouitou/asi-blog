@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/Users/ruben/GitHub/asi/articles/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/Users/ruben/GitHub/asi-blog/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
